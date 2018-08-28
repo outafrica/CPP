@@ -1,4 +1,12 @@
 # CPP
 Coding with C++ at my own pace
-First C++ code that compares inter values using array list
-Displays the largest and least values
+
+:-) First C++ program
+
+A program that compares three numbers using arrays
+
+Array length can be changed according to your preference.
+
+.... Enjoy ....
+
+:-)
